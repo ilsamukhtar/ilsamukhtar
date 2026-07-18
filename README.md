@@ -107,6 +107,20 @@ Results-driven Cloud & DevOps Engineer with **1+ year** of hands-on experience a
 
 ---
 
+### 📡 ELK Stack Log Ingestion Pipeline with Apache Kafka
+
+Fault-tolerant log ingestion pipeline — Apache Kafka + Zookeeper + Logstash + Elasticsearch + Kibana, fully containerized with Docker Compose
+
+- Handles **10,000+ log events per minute** from simulated distributed microservices
+- **8+ Kibana dashboards** built for real-time log analysis and observability
+- Root-cause identification time cut by **55%** during simulated production incidents
+- Fault-tolerant Kafka + Zookeeper cluster for durable, decoupled message brokering
+- Single-command deployment via Docker Compose across 5 services
+
+`Apache Kafka` `Zookeeper` `Logstash` `Elasticsearch` `Kibana` `Docker` `Python`
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
