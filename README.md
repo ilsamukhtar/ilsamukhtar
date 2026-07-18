@@ -107,7 +107,7 @@ Results-driven Cloud & DevOps Engineer with **1+ year** of hands-on experience a
 
 ---
 
-### 📡 ELK Stack Log Ingestion Pipeline with Apache Kafka
+### 📡 [ELK Stack Log Ingestion Pipeline with Apache Kafka](https://github.com/ilsamukhtar/elk-kafka-log-pipeline)
 
 Fault-tolerant log ingestion pipeline — Apache Kafka + Zookeeper + Logstash + Elasticsearch + Kibana, fully containerized with Docker Compose
 
