@@ -71,7 +71,7 @@ Results-driven Cloud & DevOps Engineer with **1+ year** of hands-on experience a
 
 ## 📌 Featured Projects
 
-### 🚀 [Production-Ready CI/CD Pipeline on AWS](https://github.com/ilsamukhtar/aws-cicd-pipeline)
+### 🚀 [Production-Ready CI/CD Pipeline on AWS](https://github.com/ilsamukhtar/cicd-pipeline-project)
 > End-to-end automated pipeline — Jenkins + GitHub Actions + Docker + AWS EKS + Terraform
 
 - Deployment time cut from **45 min → under 8 min**
