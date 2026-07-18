@@ -20,7 +20,7 @@ Results-driven Cloud & DevOps Engineer with **1+ year** of hands-on experience a
 - ⚡ Reduced deployment time from **45 minutes → under 8 minutes** through full CI/CD automation
 - 📊 Built monitoring stacks achieving **99.9% uptime** with Prometheus & Grafana
 - 🐧 Administered **10+ Linux servers** with zero unplanned outages over 8 months
-- 📝 Currently working at **Al Nafi.Cloud** as a Junior DevOps Engineer
+- 📝 Completed Junior DevOps Engineer training at Al Nafi.Cloud — now open to new opportunities as a DevOps / Cloud Engineer
 
 ---
 
